@@ -10,3 +10,4 @@
 - Use the run_analysis.R 
 - change the file path in all fread() functions accordingly
 - the final result is the file "tidyset.csv"
+
